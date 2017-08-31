@@ -2,7 +2,7 @@
     "name": "Swigle/shippingCalculator",
     "autoload": {
         "psr-0" : {
-            "Swigle\\shippingSettings" : "src"
+            "Swigle\\shippingSettings" : "src",
 			"Swigle\\shippingCalculator" : "src"
         }
     }
