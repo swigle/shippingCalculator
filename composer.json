@@ -1,9 +1,8 @@
 {
-    "name": "Swigle/shippingCalculator",
+    "name": "swigle/shipping-calculator",
     "autoload": {
-        "psr-0" : {
-            "Swigle\\shippingSettings" : "src",
-			"Swigle\\shippingCalculator" : "src"
+        "psr-4": {
+            "Swigle\\": "src"
         }
     }
 }
